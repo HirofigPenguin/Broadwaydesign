@@ -57,3 +57,39 @@ h1,#process {
 	font-family: helvetica;
 	font-size:14px;
 }
+
+.minibackgroung{
+
+}
+
+.minibackground img {
+	margin:center;
+	width:100%;
+	height:30px;
+	display:inline-block;
+	position: relative;
+}
+
+h2#ny {
+	font-family:helvetica;
+	font-size: 23px;
+	font-weight:bold;
+	color:pink;
+	text-align:center;
+	position:absolute;
+	top:-5%;
+	z-index: 1;
+	text-align:center;
+	width:100%;
+}
+
+.last{
+text-align: center;
+}
+
+#footer{
+	font-family:helvetica;
+	font-size:14px;
+	color:white;
+	background-color:dimgray;
+}
