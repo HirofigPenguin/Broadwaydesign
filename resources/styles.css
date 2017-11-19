@@ -28,8 +28,10 @@ h1.design {
 	color:white;
 	text-align:center;
 	position:absolute;
-	top:10%;
+	top:17%;
 	z-index:1;
+	font-size:18px;
+	font-weight:bold;
 }
 
 .smallimg {
@@ -58,8 +60,15 @@ h1,#process {
 	font-size:14px;
 }
 
-.minibackgroung{
+.minibackground {
+	width:100%;
+	height:100%;
+}
 
+.minibackground text{
+top:0%;
+position: absolute;
+text-align: center;
 }
 
 .minibackground img {
@@ -70,14 +79,13 @@ h1,#process {
 	position: relative;
 }
 
-h2#ny {
+#ny {
 	font-family:helvetica;
 	font-size: 23px;
 	font-weight:bold;
-	color:pink;
-	text-align:center;
+	color:white;
 	position:absolute;
-	top:-5%;
+	bottom: -89%;
 	z-index: 1;
 	text-align:center;
 	width:100%;
@@ -92,4 +100,8 @@ text-align: center;
 	font-size:14px;
 	color:white;
 	background-color:dimgray;
+}
+
+a{
+	color:white;
 }
