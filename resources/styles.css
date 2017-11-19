@@ -31,3 +31,29 @@ h1.design {
 	top:10%;
 	z-index:1;
 }
+
+.smallimg {
+	text-align: center;
+}
+
+.smallimg img {
+	height:150px;
+	width: 150px;
+}
+
+h1,#process {
+	font-family: helvetica;
+	font-size:32px;
+	font-weight:bold;
+}
+
+#main{
+	font-family:helvetica;
+	font-size:23px;
+	font-weight:bold;
+}
+
+#p{
+	font-family: helvetica;
+	font-size:14px;
+}
